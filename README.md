@@ -146,7 +146,6 @@ The skill works through your career role by role, asking targeted questions in s
 | **Innovation**     | Hard problems, early adoption        | "Built real-time pipeline 6 months before industry standard tooling existed"          |
 | **Influence**      | Mentoring, patterns, culture         | "Established testing practices adopted by 4 teams, mentored 3 engineers to promotion" |
 
-When you don't have exact numbers, Claude helps you estimate collaboratively. "If 1,000 users save 5 minutes daily, that's roughly 2 FTEs, approximately $200K/year."
 
 The output is a structured `achievements.md` that becomes your single source of truth — update it whenever you ship something significant, and you'll never have to reconstruct your career from memory again.
 
