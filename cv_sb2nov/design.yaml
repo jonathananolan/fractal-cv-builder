@@ -1,0 +1,10 @@
+design:
+  theme: sb2nov
+  page:
+    show_footer: false
+    top_margin: 0.4in
+    bottom_margin: 0.4in
+    left_margin: 0.5in
+    right_margin: 0.5in
+  typography:
+    line_spacing: 0.35em

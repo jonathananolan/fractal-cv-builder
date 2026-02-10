@@ -1,0 +1,57 @@
+cv:
+  name: "Jane Smith"
+  label: "Anvil Engineering | Roadrunner Pursuit Strategy | Coyote Resilience"
+  summary: "Full-stack engineer who builds products that occasionally work as intended. Led the Acme Corp digital transformation from blueprints-on-napkins to a platform serving 50,000 daily users (and one very persistent coyote). Specialises in systems that survive catastrophic failure, mostly because they fail so often."
+  location: "Toontown, CA"
+  email: jane@acmecorp.com
+  phone: "+1 212 555 0100"
+  social_networks:
+    - network: LinkedIn
+      username: janesmith-acme
+
+  sections:
+    What I Bring:
+      - bullet: "**Disaster-Proof Engineering:** Built Acme's order fulfilment platform after the previous one was flattened by a falling anvil. 99.97% uptime since, serving 50,000 daily users."
+      - bullet: "**Cross-Functional Leadership:** Led a team of 12 engineers, 3 product managers, and 1 inexplicably fast bird across 4 time zones to ship on schedule."
+      - bullet: "**Technical Depth:** Python, TypeScript, React, and PostgreSQL in production. Comfortable debugging at 3am or while falling off a cliff."
+
+    Experience:
+      - company: Acme Corporation
+        position: Senior Engineer, Contraptions Division
+        location: Toontown, CA
+        start_date: 2021-03
+        end_date: present
+        highlights:
+          - "**Platform Rebuild:** Architected migration from monolithic Fortran codebase to microservices (Python, FastAPI, PostgreSQL), reducing deployment time from 2 weeks to 14 minutes. Zero customer-facing outages during migration."
+          - "**Revenue Impact:** Built real-time pricing engine processing 12,000 transactions/hour, increasing average order value 23% and generating $4.2M incremental ARR."
+          - "**Team Growth:** Mentored 4 junior engineers to mid-level promotions within 18 months. Introduced code review standards adopted across 6 teams."
+
+      - company: Wile E. Consulting
+        position: Software Engineer
+        location: Desert Canyon, AZ
+        start_date: 2018-06
+        end_date: 2021-02
+        highlights:
+          - "**Automation:** Reduced client onboarding from 3 days to 45 minutes by building a self-service portal (React, Node.js, Stripe integration), saving 1,200 staff hours annually."
+          - "**Scale:** Designed event-driven architecture handling 500K daily messages across 30 microservices with sub-200ms p99 latency."
+
+      - company: Looney Labs
+        position: Junior Developer
+        location: Burbank, CA
+        start_date: 2016-09
+        end_date: 2018-05
+        highlights:
+          - "**First Production System:** Built internal dashboard tracking experiment results for 200 researchers. Still running 8 years later with zero rewrites."
+
+    Education:
+      - institution: University of Cartoonington
+        area: "Computer Science (First Class Honours, Dean's List)"
+        degree: BSc
+        start_date: 2012
+        end_date: 2016
+        highlights:
+          - "Thesis on distributed systems resilience. Study abroad at Anime Institute of Technology, Tokyo."
+
+    Beyond Work:
+      - bullet: "**Desert Ultra Running:** Completed 3 ultramarathons. Never once caught a roadrunner."
+      - bullet: "**Open Source:** Maintainer of anvil-js (2,400 GitHub stars), a lightweight state management library."

@@ -1,0 +1,22 @@
+# RenderCV output (except PDF)
+rendercv_output/*
+!rendercv_output/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
