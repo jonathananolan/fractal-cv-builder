@@ -65,6 +65,8 @@ It asks about scale, revenue impact, automation wins, hard problems solved, and 
 
 Upload your existing CV at the start if you have one. Claude will parse it and use it as a starting point, then push for the numbers and specifics that are missing.
 
+Take your time on this! You might want to do it over a couple of days so that you can job your memory of past achievements. 
+
 ### 2. Build a Targeted Resume
 
 Once your achievements file is populated:
